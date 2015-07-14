@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\bin\Release\Orders.exe.config
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\obj\Release\2. Orders.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\bin\Release\Orders.exe
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\bin\Release\Orders.pdb
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\obj\Release\Orders.exe
+C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\obj\Release\Orders.pdb
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\bin\Release\Orders.exe.config
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\obj\Release\Orders.exe
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\obj\Release\Orders.pdb
