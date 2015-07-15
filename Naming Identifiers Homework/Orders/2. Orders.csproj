@@ -47,7 +47,7 @@
     <Compile Include="Models\orders.cs" />
     <Compile Include="Models\products.cs" />
     <Content Include="Data\products.txt" />
-    <Compile Include="Program.cs" />
+    <Compile Include="OrdersMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

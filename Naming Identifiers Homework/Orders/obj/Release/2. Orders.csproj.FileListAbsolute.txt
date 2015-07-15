@@ -7,3 +7,6 @@ C:\Users\Ivan\Desktop\Homework uslovia\Naming Identifiers Homework\Orders\obj\Re
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\bin\Release\Orders.exe.config
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\obj\Release\Orders.exe
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\obj\Release\Orders.pdb
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\obj\Release\2. Orders.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\bin\Release\Orders.exe
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Orders\bin\Release\Orders.pdb
