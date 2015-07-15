@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Orders", "Orders\2. Orders.csproj", "{32FFFB9D-C7B7-4D0B-9392-231F62595912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Application2", "Application2\3. Application2.csproj", "{E2B7BED8-5433-40ED-9870-4E775782E5ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Minesweeper", "Application2\3. Minesweeper.csproj", "{E2B7BED8-5433-40ED-9870-4E775782E5ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

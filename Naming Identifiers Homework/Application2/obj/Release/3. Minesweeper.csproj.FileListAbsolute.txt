@@ -1,5 +1,6 @@
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\bin\Release\Application2.exe.config
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\bin\Release\Application2.exe
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\bin\Release\Application2.pdb
+E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\obj\Release\3. Minesweeper.csprojResolveAssemblyReference.cache
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\obj\Release\Application2.exe
 E:\Fundamentials\HomeWorksHQC\Naming Identifiers Homework\Application2\obj\Release\Application2.pdb
